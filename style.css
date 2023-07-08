@@ -1,0 +1,46 @@
+.header{
+height: 100px;
+background: linear-gradient(#33ccff 0%, #ff99cc 100%)
+}
+
+.container{
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 60%;
+	height: 700px;
+	background-color: #ffc3a0;
+}
+.contact{
+	float: right;
+	width: 40%;
+	height: 700px;
+	background:linear-gradient(#f7f8f8 0%, #acbb78 100%);
+	border-left:2px solid black;
+	box-sizing:border-box ;
+}
+
+.footer{
+	height: 100px;
+	background-color: orange;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+.item{
+	float: left;
+	width: 33.33%;
+	height: 200px;
+}
+.grey{
+background-color: grey;
+}
+.green{
+	background-color: green;
+}
+
+.yellow{
+	background-color: yellow;
+}
